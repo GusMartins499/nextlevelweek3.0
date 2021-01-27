@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/GusMartins499/nextlevelweek1.0)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-# Next Level Week 2.0
+# Next Level Week 3.0
 Next Level Week is a week promoted by [Rocketseat](https://github.com/rocketseat). This week the [Rocketseat](https://github.com/rocketseat) [Diego Fernandes](https://github.com/diego3g) CTO teaches you how to create an application with typescript, node, react, react native technologies, among others, all to take you to the next level of programming.
 
 
